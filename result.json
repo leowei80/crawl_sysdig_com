@@ -1,0 +1,132 @@
+[
+    {
+        "index": 1,
+        "url": "/",
+        "depth": 1,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "72b0d26ddbc1c3401ce79fd7a005ab4c",
+        "fpath": "header.html",
+        "sub_urls": []
+    },
+    {
+        "index": 1,
+        "url": "/",
+        "depth": 1,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "89ec5dab029c77a91612c61c1b7620cf",
+        "fpath": "footer.html",
+        "sub_urls": []
+    },
+    {
+        "index": 0,
+        "url": "/",
+        "depth": 1,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "8efff89a1866591f3da38a562ad43062",
+        "fpath": "0.html",
+        "sub_urls": [
+            "/blog/sysdig-and-falco-now-powered-by-ebpf/",
+            "/customers/bigcommerce/",
+            "/ecosystem/google-cloud/",
+            "/ecosystem/ibm/",
+            "/products/platform/",
+            "/customers/arkose-labs/",
+            "/opensource/falco/",
+            "/request-a-demo/",
+            "/ecosystem/"
+        ]
+    },
+    {
+        "index": 1,
+        "url": "/blog/sysdig-and-falco-now-powered-by-ebpf/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "5a9b7cafeb44f0d5c43fdac11bc673c6",
+        "fpath": "1.html",
+        "sub_urls": []
+    },
+    {
+        "index": 2,
+        "url": "/customers/bigcommerce/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "0e72faf38fdca2e9c7e44dfbe94cbaf6",
+        "fpath": "2.html",
+        "sub_urls": []
+    },
+    {
+        "index": 3,
+        "url": "/ecosystem/google-cloud/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "a68e317764377acd0bcb303deb6370e3",
+        "fpath": "3.html",
+        "sub_urls": []
+    },
+    {
+        "index": 4,
+        "url": "/ecosystem/ibm/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "1b3a5d3435dd43aa75ddce1adf46eae5",
+        "fpath": "4.html",
+        "sub_urls": []
+    },
+    {
+        "index": 5,
+        "url": "/products/platform/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "cbad9e0e6469017f1010d6ca17146e8d",
+        "fpath": "5.html",
+        "sub_urls": []
+    },
+    {
+        "index": 6,
+        "url": "/customers/arkose-labs/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "e6fa556a1b979eb0d1c7d5183d81711f",
+        "fpath": "6.html",
+        "sub_urls": []
+    },
+    {
+        "index": 7,
+        "url": "/opensource/falco/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "25bca09c2cda867a42a8d1e78b8b2f12",
+        "fpath": "7.html",
+        "sub_urls": []
+    },
+    {
+        "index": 8,
+        "url": "/request-a-demo/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "c5c9886a1806398695abcad38fe865f6",
+        "fpath": "8.html",
+        "sub_urls": []
+    },
+    {
+        "index": 9,
+        "url": "/ecosystem/",
+        "depth": 2,
+        "code": "ok",
+        "ftype": "html",
+        "fp": "7c54491b7771b4869a5ba111c386308e",
+        "fpath": "9.html",
+        "sub_urls": []
+    }
+]
