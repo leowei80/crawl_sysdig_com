@@ -1,66 +1,66 @@
 INFO:root:(1/1)url-/, depth-1 crawl begin.
 INFO:root:(1/20)url-/, depth-1 crawl end.
-INFO:root:(2/20)url-/products/platform/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /products/platform/, depth: 2
-INFO:root:(2/20)url-/products/platform/, depth-2 crawl end.
-INFO:root:(3/20)url-/ecosystem/ibm/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /ecosystem/ibm/, depth: 2
-INFO:root:(3/20)url-/ecosystem/ibm/, depth-2 crawl end.
-INFO:root:(3/20) has done, now sleep for 5 seconds.
-INFO:root:(4/20)url-/ecosystem/microsoft-azure/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /ecosystem/microsoft-azure/, depth: 2
-INFO:root:(4/20)url-/ecosystem/microsoft-azure/, depth-2 crawl end.
-INFO:root:(5/20)url-/gigaom-radar-cws-2024/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /gigaom-radar-cws-2024/, depth: 2
-INFO:root:(5/20)url-/gigaom-radar-cws-2024/, depth-2 crawl end.
-INFO:root:(6/20)url-/blog/kuppingercole-names-sysdig-product-innovation-leader-cnapp/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /blog/kuppingercole-names-sysdig-product-innovation-leader-cnapp/, depth: 2
-INFO:root:(6/20)url-/blog/kuppingercole-names-sysdig-product-innovation-leader-cnapp/, depth-2 crawl end.
-INFO:root:(6/20) has done, now sleep for 5 seconds.
-INFO:root:(7/20)url-/solutions/vulnerability-management/, depth-2 crawl begin.
+INFO:root:(2/20)url-/solutions/vulnerability-management/, depth-2 crawl begin.
 INFO:root:reach max depth or max pages, url: /solutions/vulnerability-management/, depth: 2
-INFO:root:(7/20)url-/solutions/vulnerability-management/, depth-2 crawl end.
-INFO:root:(8/20)url-/solutions/cloud-threat-detection-and-response/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /solutions/cloud-threat-detection-and-response/, depth: 2
-INFO:root:(8/20)url-/solutions/cloud-threat-detection-and-response/, depth-2 crawl end.
-INFO:root:(9/20)url-/request-a-demo/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /request-a-demo/, depth: 2
-INFO:root:(9/20)url-/request-a-demo/, depth-2 crawl end.
-INFO:root:(9/20) has done, now sleep for 5 seconds.
-INFO:root:(10/20)url-/customers/icg-consulting/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /customers/icg-consulting/, depth: 2
-INFO:root:(10/20)url-/customers/icg-consulting/, depth-2 crawl end.
-INFO:root:(11/20)url-/content/business-impact/pf-the-business-impact-of-time-in-cloud-security, depth-2 crawl begin.
+INFO:root:(2/20)url-/solutions/vulnerability-management/, depth-2 crawl end.
+INFO:root:(3/20)url-/solutions/container-and-kubernetes-security/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /solutions/container-and-kubernetes-security/, depth: 2
+INFO:root:(3/20)url-/solutions/container-and-kubernetes-security/, depth-2 crawl end.
+INFO:root:(3/20) has done, now sleep for 5 seconds.
+INFO:root:(4/20)url-/ecosystem/ibm/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /ecosystem/ibm/, depth: 2
+INFO:root:(4/20)url-/ecosystem/ibm/, depth-2 crawl end.
+INFO:root:(5/20)url-/content/business-impact/pf-the-business-impact-of-time-in-cloud-security, depth-2 crawl begin.
 INFO:root:reach max depth or max pages, url: /content/business-impact/pf-the-business-impact-of-time-in-cloud-security, depth: 2
-INFO:root:(11/20)url-/content/business-impact/pf-the-business-impact-of-time-in-cloud-security, depth-2 crawl end.
-INFO:root:(12/20)url-/ecosystem/google-cloud/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /ecosystem/google-cloud/, depth: 2
-INFO:root:(12/20)url-/ecosystem/google-cloud/, depth-2 crawl end.
-INFO:root:(12/20) has done, now sleep for 5 seconds.
-INFO:root:(13/20)url-/solutions/cspm/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /solutions/cspm/, depth: 2
-INFO:root:(13/20)url-/solutions/cspm/, depth-2 crawl end.
-INFO:root:(14/20)url-/ecosystem/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /ecosystem/, depth: 2
-INFO:root:(14/20)url-/ecosystem/, depth-2 crawl end.
-INFO:root:(15/20)url-/customers/bigcommerce/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /customers/bigcommerce/, depth: 2
-INFO:root:(15/20)url-/customers/bigcommerce/, depth-2 crawl end.
-INFO:root:(15/20) has done, now sleep for 5 seconds.
-INFO:root:(16/20)url-/customers/arkose-labs/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /customers/arkose-labs/, depth: 2
-INFO:root:(16/20)url-/customers/arkose-labs/, depth-2 crawl end.
-INFO:root:(17/20)url-/blog/sysdig-is-a-strong-performer-gartner-voice-of-customer-cspm/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /blog/sysdig-is-a-strong-performer-gartner-voice-of-customer-cspm/, depth: 2
-INFO:root:(17/20)url-/blog/sysdig-is-a-strong-performer-gartner-voice-of-customer-cspm/, depth-2 crawl end.
-INFO:root:(18/20)url-/customers/, depth-2 crawl begin.
-INFO:root:reach max depth or max pages, url: /customers/, depth: 2
-INFO:root:(18/20)url-/customers/, depth-2 crawl end.
-INFO:root:(18/20) has done, now sleep for 5 seconds.
-INFO:root:(19/20)url-/2024-cloud-native-security-and-usage-report/, depth-2 crawl begin.
+INFO:root:(5/20)url-/content/business-impact/pf-the-business-impact-of-time-in-cloud-security, depth-2 crawl end.
+INFO:root:(6/20)url-/ecosystem/microsoft-azure/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /ecosystem/microsoft-azure/, depth: 2
+INFO:root:(6/20)url-/ecosystem/microsoft-azure/, depth-2 crawl end.
+INFO:root:(6/20) has done, now sleep for 5 seconds.
+INFO:root:(7/20)url-/2024-cloud-native-security-and-usage-report/, depth-2 crawl begin.
 INFO:root:reach max depth or max pages, url: /2024-cloud-native-security-and-usage-report/, depth: 2
-INFO:root:(19/20)url-/2024-cloud-native-security-and-usage-report/, depth-2 crawl end.
-INFO:root:(20/20)url-/solutions/permissions-entitlement-management/, depth-2 crawl begin.
+INFO:root:(7/20)url-/2024-cloud-native-security-and-usage-report/, depth-2 crawl end.
+INFO:root:(8/20)url-/blog/kuppingercole-names-sysdig-product-innovation-leader-cnapp/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /blog/kuppingercole-names-sysdig-product-innovation-leader-cnapp/, depth: 2
+INFO:root:(8/20)url-/blog/kuppingercole-names-sysdig-product-innovation-leader-cnapp/, depth-2 crawl end.
+INFO:root:(9/20)url-/ecosystem/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /ecosystem/, depth: 2
+INFO:root:(9/20)url-/ecosystem/, depth-2 crawl end.
+INFO:root:(9/20) has done, now sleep for 5 seconds.
+INFO:root:(10/20)url-/customers/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /customers/, depth: 2
+INFO:root:(10/20)url-/customers/, depth-2 crawl end.
+INFO:root:(11/20)url-/solutions/cloud-threat-detection-and-response/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /solutions/cloud-threat-detection-and-response/, depth: 2
+INFO:root:(11/20)url-/solutions/cloud-threat-detection-and-response/, depth-2 crawl end.
+INFO:root:(12/20)url-/solutions/permissions-entitlement-management/, depth-2 crawl begin.
 INFO:root:reach max depth or max pages, url: /solutions/permissions-entitlement-management/, depth: 2
-INFO:root:(20/20)url-/solutions/permissions-entitlement-management/, depth-2 crawl end.
+INFO:root:(12/20)url-/solutions/permissions-entitlement-management/, depth-2 crawl end.
+INFO:root:(12/20) has done, now sleep for 5 seconds.
+INFO:root:(13/20)url-/request-a-demo/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /request-a-demo/, depth: 2
+INFO:root:(13/20)url-/request-a-demo/, depth-2 crawl end.
+INFO:root:(14/20)url-/solutions/cspm/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /solutions/cspm/, depth: 2
+INFO:root:(14/20)url-/solutions/cspm/, depth-2 crawl end.
+INFO:root:(15/20)url-/products/platform/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /products/platform/, depth: 2
+INFO:root:(15/20)url-/products/platform/, depth-2 crawl end.
+INFO:root:(15/20) has done, now sleep for 5 seconds.
+INFO:root:(16/20)url-/customers/bigcommerce/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /customers/bigcommerce/, depth: 2
+INFO:root:(16/20)url-/customers/bigcommerce/, depth-2 crawl end.
+INFO:root:(17/20)url-/ecosystem/aws/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /ecosystem/aws/, depth: 2
+INFO:root:(17/20)url-/ecosystem/aws/, depth-2 crawl end.
+INFO:root:(18/20)url-/ecosystem/google-cloud/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /ecosystem/google-cloud/, depth: 2
+INFO:root:(18/20)url-/ecosystem/google-cloud/, depth-2 crawl end.
+INFO:root:(18/20) has done, now sleep for 5 seconds.
+INFO:root:(19/20)url-/blog/sysdig-is-a-strong-performer-gartner-voice-of-customer-cspm/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /blog/sysdig-is-a-strong-performer-gartner-voice-of-customer-cspm/, depth: 2
+INFO:root:(19/20)url-/blog/sysdig-is-a-strong-performer-gartner-voice-of-customer-cspm/, depth-2 crawl end.
+INFO:root:(20/20)url-/customers/icg-consulting/, depth-2 crawl begin.
+INFO:root:reach max depth or max pages, url: /customers/icg-consulting/, depth: 2
+INFO:root:(20/20)url-/customers/icg-consulting/, depth-2 crawl end.
 INFO:root:all pages has been done, exit program.
